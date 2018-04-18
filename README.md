@@ -67,6 +67,3 @@ HTML, CSS, and JavaScript programming intensive
 * Experienced in C++, Golang, and C#
 * Skilled in MongoDB, MySQL, Redis, Node.js, Flask, Django, jQuery, Maven and Git
 * 90 words per minute typing speed
-
-
-*NOTE: Most of my personal info is left out*
