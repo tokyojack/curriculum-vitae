@@ -1,10 +1,10 @@
 # Jack Clarke
 
 #### tokyojack2001@gmail.com
-#### **Online portofrlio** www.github.com/tokyojack 
+#### **Online portfolio** www.github.com/tokyojack 
 
 ## Experience
-### Highschool Coding Club Founder | Vancouver BC
+### High School Coding Club Founder | Vancouver, BC
 #### 2017 – present
 Mentor novice programmers and cultivate their continued interest.
 
@@ -13,7 +13,7 @@ Mentor novice programmers and cultivate their continued interest.
 Collaborate with peers to problem solve and debug code. Co-create a regional
 community of coders, from beginner to advanced skill levels.
 
-### Highschool Technology Assistant | Vancouver, BC
+### High School Technology Assistant | Vancouver, BC
 #### 2017 – present 
 Developed all content for the school-wide digital signage system that allows the school
 to easily convey important information to students. Developed a time-saving grading
@@ -31,18 +31,18 @@ additional revenue and scale up (see www.luxstudiosmc.com/shop).
 Independently created a Minecraft game server that achieved mid-range popularity
 and generated significant profit. Handled all coding, configuring, hiring, and hosting. 
 
-### Highschool Peer Tutor | Vancouver, BC
+### High School Peer Tutor | Vancouver, BC
 #### 2016 – 2017
 Provided peer (and teacher!) tutoring in an HTML, CSS, and JavaScript development
 class.
 
 ## Education
-### Highschool | Vancouver, British Columbia
+### High School | Vancouver, British Columbia
 #### 2016 – present
 GPA: 4.0
 
-### Digital Media Academy | University of British Columbia Summer 
-#### 2015 & 2016
+### Digital Media Academy | University of British Columbia 
+#### Summer 2015 & 2016
 Java and Python programming intensives
 
 ### StartUp Skool | Vancouver, BC
@@ -65,8 +65,8 @@ HTML, CSS, and JavaScript programming intensive
 * Complete JavaScript course
 * Complete Java Masterclass 
 * Complete Python Bootcamp
-* REST API's with Flask and Python
-* PHP for Begginners - Become a PHP Master
+* REST APIs with Flask and Python
+* PHP for Beginners - Become a PHP Master
 * Learn how to Code: Google’s Go (Golang) Programming
 
 
