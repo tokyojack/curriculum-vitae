@@ -1,7 +1,7 @@
 # Jack Clarke
 
-tokyojack2001@gmail.com
-**Online portofrlio** www.github.com/tokyojack 
+#### tokyojack2001@gmail.com
+#### **Online portofrlio** www.github.com/tokyojack 
 
 ## Experience
 ### Highschool Coding Club Founder | Vancouver BC
@@ -31,8 +31,8 @@ additional revenue and scale up (see www.luxstudiosmc.com/shop).
 Independently created a Minecraft game server that achieved mid-range popularity
 and generated significant profit. Handled all coding, configuring, hiring, and hosting. 
 
-### Highschool Peer Tutor | Vancouver
-#### BC 2016 – 2017
+### Highschool Peer Tutor | Vancouver, BC
+#### 2016 – 2017
 Provided peer (and teacher!) tutoring in an HTML, CSS, and JavaScript development
 class.
 
