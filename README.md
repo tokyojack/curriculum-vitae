@@ -42,7 +42,7 @@ class.
 GPA: 4.0
 
 ### Digital Media Academy | University of British Columbia 
-#### Summer 2015 & 2016
+### Summer 2015 & 2016
 Java and Python programming intensives
 
 ### StartUp Skool | Vancouver, BC
