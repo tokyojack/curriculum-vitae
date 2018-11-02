@@ -19,17 +19,32 @@ Developed all content for the school-wide digital signage system that allows the
 to easily convey important information to students. Developed a time-saving grading
 software called “Gradeify” (see www.github.com/tokyojack/gradeify).
 
-### Freelance Java Coder | 2015 – present
+### Freelance Java Coder
+### 2015 – present
 Create plugins for game servers around the world that enable players to have unique
 and custom features.
 
-### Freelance Web Developer | Spring 2018
+### Freelance Web Developer
+### Spring 2018
 Developed the back-end for a shop application that enabled the studio to generate
 additional revenue and scale up (see www.luxstudiosmc.com/shop).
 
-### Online Gaming Network Creator | 2015 – 2018
+### Online Gaming Network Creator
+### 2015 – 2018
 Independently created a Minecraft game server that achieved mid-range popularity
 and generated significant profit. Handled all coding, configuring, hiring, and hosting. 
+
+### Participant, VanHacks (Hackathon for social good) | BCIT 
+### September 2018
+
+Worked as part of a team tosolve business problems for some of 
+Vancouver’s most deserving non-profit organizations through technology.
+
+### Volunteer, Lumohacks Mental Health Hackathon | SFU
+### September 2018
+
+Assisted for more than 24 hours straight with participant registration, 
+food service, set up and take-down.
 
 ### High School Peer Tutor | Vancouver, BC
 ### 2016 – 2017
