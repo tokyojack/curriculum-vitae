@@ -4,6 +4,18 @@
 #### **Online portfolio:** www.github.com/tokyojack 
 
 ## Experience
+### Participant, VanHacks (Hackathon for social good) | BCIT 
+### September 2018
+
+Worked as part of a team tosolve business problems for some of 
+Vancouver’s most deserving non-profit organizations through technology.
+
+### Volunteer, Lumohacks Mental Health Hackathon | SFU
+### September 2018
+
+Assisted for more than 24 hours straight with participant registration, 
+food service, set up and take-down.
+
 ### High School Coding Club Founder | Vancouver, BC
 ### 2017 – present
 Mentor novice programmers and cultivate their continued interest.
@@ -26,25 +38,13 @@ and custom features.
 
 ### Freelance Web Developer
 ### Spring 2018
-Developed the back-end for a shop application that enabled the studio to generate
+Developed the back-end for a shop application that enabled the studio to generatehac
 additional revenue and scale up (see www.luxstudiosmc.com/shop).
 
 ### Online Gaming Network Creator
 ### 2015 – 2018
 Independently created a Minecraft game server that achieved mid-range popularity
 and generated significant profit. Handled all coding, configuring, hiring, and hosting. 
-
-### Participant, VanHacks (Hackathon for social good) | BCIT 
-### September 2018
-
-Worked as part of a team tosolve business problems for some of 
-Vancouver’s most deserving non-profit organizations through technology.
-
-### Volunteer, Lumohacks Mental Health Hackathon | SFU
-### September 2018
-
-Assisted for more than 24 hours straight with participant registration, 
-food service, set up and take-down.
 
 ### High School Peer Tutor | Vancouver, BC
 ### 2016 – 2017
