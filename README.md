@@ -38,8 +38,8 @@ and custom features.
 
 ### Freelance Web Developer
 ### Spring 2018
-Developed the back-end for a shop application that enabled the studio to generatehac
-additional revenue and scale up (see www.luxstudiosmc.com/shop).
+Developed the back-end for a shop application that enabled the studio to generate
+additional revenue and scale up.
 
 ### Online Gaming Network Creator
 ### 2015 – 2018
