@@ -7,8 +7,14 @@
 ### Participant, VanHacks (Hackathon for social good) | BCIT 
 ### September 2018
 
-Worked as part of a team tosolve business problems for some of 
+Worked as part of a team to solve business problems for some of 
 Vancouver’s most deserving non-profit organizations through technology.
+
+### Participant, nwHacks | UBC 
+### January 2019
+
+Worked with a random group of teammates to create
+a cool and interesting project
 
 ### Volunteer, Lumohacks Mental Health Hackathon | SFU
 ### September 2018
