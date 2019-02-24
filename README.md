@@ -94,4 +94,4 @@ HTML, CSS, and JavaScript programming intensive
 ## Technical Skills
 * Confident in Python 3, JavaScript, Java, PHP, and SQL
 * Experienced in C++, Golang, and C#
-* Skilled in MongoDB, MySQL, Redis, Node.js, Flask, Django, jQuery, Maven and Git
+* Skilled in MongoDB, MySQL, Redis, Node.js, Flask, Django, jQuery, Maven, Gradle and Git
