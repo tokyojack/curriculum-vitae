@@ -4,6 +4,27 @@
 #### **Online portfolio:** www.github.com/tokyojack 
 
 ## Experience
+### Studio Technologies Software Developer | Vancouver, BC
+### Summer 2019
+
+Worked full-time with a team of other developers in-house to develop the foundations for a new software. Primary responsibilities were serverless backend development and React frontend.
+
+<br/>
+
+### Whatifi Software Developer | Vancouver, BC
+### Summer 2019
+
+Worked with a team of other developers remotely (with biweekly in-person meetings). Used Github to multi-user collaboration and Slack to communicate. 
+
+<br/>
+
+### Information Officer, Elections Canada
+### October 2019
+
+Worked at a local polling centre greeting and assisting voters to navigate the voting  process.
+
+<br/>
+
 ### Valeon.io Development Group Owner
 ### Spring 2019 - present
 
@@ -33,11 +54,19 @@ Worked with a team on a voice-activated IDE add-on that can type code and do oth
 <br/>
 
 ### Participant, VanHacks | BCIT 
+### September 2019
+
+Worked with other participants to make a new data management system for a non-profit organization.
+
+<br/>
+
+### Participant, VanHacks | BCIT 
 ### September 2018
 
 Worked with a team to address plastics in the ocean by gamifying their reduction. 
 
 <br/>
+
 
 ### Volunteer, Lumohacks | SFU
 ### September 2018
@@ -106,6 +135,8 @@ Independently created a Minecraft game server that achieved mid-range popularity
 ### High School | Vancouver, British Columbia
 ### 2016 – present
 GPA: 4.0
+Top Student Award 2019, Grade 11 (95%+ GPA)
+Top Student Award 2018, Grade 10 (95%+ GPA)
 
 <br/>
 
