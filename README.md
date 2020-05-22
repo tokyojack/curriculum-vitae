@@ -4,7 +4,7 @@
 #### www.github.com/tokyojack 
 
 <br/>
-*Self-taught developer for the past 10 years. Java freelancer for 5+ years, freelance web development for 3+ years. Specializing in databases and back-end services.*
+_Self-taught developer for the past 10 years. Java freelancer for 5+ years, freelance web development for 3+ years. Specializing in databases and back-end services._
 
 
 ## EXPERIENCE 
@@ -46,19 +46,19 @@
 
 ### Highschool Peer Tutor | Vancouver, BC | 2018 – 2020
 
-Uniquely able to empower students. Tutored a teacher in an HTML, CSS & JavaScript development class.
+* Uniquely able to empower students. Tutored a teacher in an HTML, CSS & JavaScript development class.
 
 <br/>
 
 ### Highshool Coding Club Founder & Local Programming Club Facilitator | Vancouver, BC | 2017 – 2019
 
-Mentored novice programmers and created a regional community of coders.
+* Mentored novice programmers and created a regional community of coders.
 
 <br/>
 
 ### Highschool School Technology Assistant | Vancouver, BC | 2017 – 2018
 
-Launched the school-wide digital signage system. Developed a time-saving grading software for teachers. 
+* Launched the school-wide digital signage system. Developed a time-saving grading software for teachers. 
 
 <br/>
 
