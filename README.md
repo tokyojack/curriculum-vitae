@@ -4,6 +4,7 @@
 #### www.github.com/tokyojack 
 
 <br/>
+
 *Self-taught developer for the past 10 years. Java freelancer for 5+ years, freelance web development for 3+ years. Specializing in databases and back-end services.*
 
 
