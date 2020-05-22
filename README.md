@@ -1,185 +1,79 @@
 # Jack Clarke
 
 #### tokyojack2001@gmail.com
-#### **Online portfolio:** www.github.com/tokyojack 
+#### www.github.com/tokyojack 
 
-## Experience
-### Studio Technologies Software Developer | Vancouver, BC
-### Summer 2019
+*Self-taught developer for the past 10 years. Java freelancer for 5+ years, freelance web development for 3+ years. Specializing in databases and back-end services.*
 
-Worked full-time with a team of other developers in-house to develop the foundations for a new software. Primary responsibilities were serverless backend development and React frontend.
 
-<br/>
+## EXPERIENCE 
+### [Clotech](http://clotech.ca/) Software Developer Intern | Vancouver, BC | Summer 2019
 
-### Whatifi Software Developer | Vancouver, BC
-### Summer 2019
-
-Worked with a team of other developers remotely (with biweekly in-person meetings). Used Github to multi-user collaboration and Slack to communicate. 
+* Researched and implemented RESTful serverless API with AWS + TypeScript + Serverless Library using DataGrip and jMeter in a rapid SCRUM development environment
 
 <br/>
 
-### Information Officer, Elections Canada
-### October 2019
+### [Whatifi](https://subscribe.whatifi.io/signup/) Software Developer | Vancouver, BC | Summer 2019
 
-Worked at a local polling centre greeting and assisting voters to navigate the voting  process.
-
-<br/>
-
-### Valeon.io Development Group Owner
-### Spring 2019 - present
-
-Sell and create custom mods for clients. Main income is from popular pre-made mods. 
+* Reformatted the React front-end and Node.js back-end to include scenario saving, mobile compatibility and quality-of-life features
 
 <br/>
 
-### Freelance System Administrator
-### Feburary 2019 - present
+### Freelance Web Developer | 2017 - present
 
-Work on clients VPS/dedicated machines to set up and use hosting, databases, panels, statistic pages, etc.
-
-<br/>
-
-### Advanced Anti-Piracy System Creator
-### Janurary 2019 - Feburary 2019
-
-Created a secure and convenient anti-piracy system for the Valeon mods that allows per client accounts, automatic licencing/HWID, and obfuscation, and offers an admin/user web-site panel.
+* Created an online storefront with Node.JS & SQL (cart, email, owner admin panel, PayPal integration)
+* Developed a back-end blog service with Node.js & SQL to create/edit team members and posts; protected with password encryption, reCaptcha, rateLimiter
 
 <br/>
 
-### Participant, nwHacks | UBC 
-### January 2019
+### Valeon Development Group Owner | Spring 2019 - present
 
-Worked with a team on a voice-activated IDE add-on that can type code and do other jobs after receiving a specific spoken command.
-
-<br/>
-
-### Participant, VanHacks | BCIT 
-### September 2019
-
-Worked with other participants to make a new data management system for a non-profit organization.
+* Developed an anti-piracy system (obfuscation, automatic HWID/licencing, user web panel/customer login)
+* Created/sold Minecraft plugins (random reward crates, envoys, meteors, etc.)
+* Employed two staff to provide support, manage servers, and sell products
 
 <br/>
 
-### Participant, VanHacks | BCIT 
-### September 2018
+### Freelance Java Coder | 2015 – present
 
-Worked with a team to address plastics in the ocean by gamifying their reduction. 
+* Former head developer @ VerixPvP; managed/organized weekly fixes & content with organization through Notion
+* Created custom game server plug-ins (procedurally generated dungeons, etc.)
+* Provided server optimization that enabled increased server stability to allow  more players at a stable tick rate
+* Developed ValeonCore, a library for plugin development which contains enum config generation, command annotation framework, class-based inventory maker
+
+<br/>
+
+### Highschool Peer Tutor | Vancouver, BC | 2018 – 2020
+
+Uniquely able to empower students. Tutored a teacher in an HTML, CSS & JavaScript development class.
+
+<br/>
+
+### Highshool Coding Club Founder & Local Programming Club Facilitator | Vancouver, BC | 2017 – 2019
+
+Mentored novice programmers and created a regional community of coders.
+
+<br/>
+
+### Highschool School Technology Assistant | Vancouver, BC | 2017 – 2018
+
+Launched the school-wide digital signage system. Developed a time-saving grading software for teachers. 
 
 <br/>
 
 
-### Volunteer, Lumohacks | SFU
-### September 2018
-
-Assisted for more than 24 hours straight with participant registration, food service, and setup/take-down.
-
-<br/>
-
-### Peer Tutor
-### 2018 - present
-
-Tutor students during and after school on different programming topics or any schoolwork they need assistance with.
-
-<br/>
-
-### Freelance Web Developer
-### 2018 - present
-
-Various projects, including the development of the back-end for a shop application that enabled the studio to generate additional revenue and scale up. 
-
-<br/>
-
-### High School Coding Club Founder | Vancouver, BC
-### 2017 – 2018
-
-Mentored novice programmers and cultivated their continued interest.
-
-<br/>
-
-### High School Technology Assistant | Vancouver, BC
-### 2017 – present 
-
-Developed all content for the school-wide digital signage system that allows the school to easily convey important information to students. Developed a time-saving grading software called “Gradeify” (see www.github.com/tokyojack/gradeify). 
-
-<br/>
-
-### Local Programming Club Facilitator | Vancouver, BC 
-### 2017 – 2018
-
-Collaborated with peers to problem solve and debug code. Co-created a regional community of coders, from beginner to advanced skill levels.
-
-<br/>
-
-### High School Peer Tutor | Vancouver, BC
-### 2016 – 2017
-
-Provided peer (and teacher!) tutoring in an HTML, CSS, and JavaScript development class.
-
-<br/>
-
-### Freelance Java Coder
-### 2015 – present
-
-Create plugins for game servers around the world that enable players to have unique and custom features.
-
-<br/>
-
-### Online Gaming Network Creator
-### 2015 – 2018
-
-Independently created a Minecraft game server that achieved mid-range popularity and generated significant profit. Handled all coding, configuring, hiring, and hosting.
-
-<br/>
-
-## Education
+## EDUCATION
 ### High School | Vancouver, British Columbia
 ### 2016 – present
 GPA: 4.0
+Grade 12 average: 97%. GPA: 4.0
 Top Student Award 2019, Grade 11 (95%+ GPA)
 Top Student Award 2018, Grade 10 (95%+ GPA)
 
 <br/>
 
-### Digital Media Academy | University of British Columbia 
-### Summer 2015 & 2016
-Java and Python programming intensives
-
-<br/>
-
-### StartUp Skool | Vancouver, BC
-### Summer 2014
-Design software and entrepreneurship intensive
-
-<br/>
-
-### Byte Camp Computer Training School | Richmond, BC
-### Summer 2013
-HTML, CSS, and JavaScript programming intensive
-
-<br/>
-
-### Udemy Courses | udemy.com
-### 2014 – present
- 
-* Linux Mastery: Master Linux
-* Complete Java Masterclass 
-* Ultimate MySQL Bootcamp
-* Modern Python 3 Bootcamp 
-* REST APIs with Flask and Python
-* Complete Python Web Course
-* Web Developer Bootcamp 
-* Complete JavaScript Course
-* Node.js: Advanced Concepts
-* Node.js: The Complete Guide to Build RESTful APIs
-* JavaScript Algorithms and Data Structures Masterclass
-* The Advanced Web Developer Bootcamp
-* The Complete Junior to Senior Developer Roadmap (2019)
-* The Advanced Web Developer Bootcamp
-
-<br/>
-
-## Technical Skills
-* Confident in JavaScript, Python 3, Java, and SQL
-* Experienced in Golang, Scala, and PHP
-* Skilled in MongoDB, MySQL, Redis, Node.js, jQuery, Flask, RESTful APIs, Maven, Git, Gradle,   Obfuscation, Anti-piracy, and Website Security (reCaptcha, anti-SQL injection, 2-Step authentication, DDOS-Protection, info encryption, etc.)
+## TECHNICAL SKILLS
+* Proficient in JavaScript, TypeScript, and Java
+* Experienced in Python 3 and SQL.
+* Skilled in MongoDB, MySQL, Redis, React, Gatsby, Next, Node.js, jQuery, Flask, AWS, serverless, RESTful APIs, Maven/Gradle, Git, jMeter and Datagrip
 * Longboarding and video games!
